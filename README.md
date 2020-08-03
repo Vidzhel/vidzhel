@@ -1,4 +1,4 @@
-### Hi there 👋
+b### Hi there 👋
 
 I'm a student that once tried programming and have never stopped learning since then. Being in awe of exploring new horizons, I keep learning. The path that I've been following so far has led me through countless challenges that in combination with my experience reflected in my projects, which you can take a glance on right below. They'll explain more than I've ever could say.
 
@@ -6,17 +6,23 @@ But programming isn't the only activity I do. I'm also pleased by reading books 
 
 > Those who know, do. Those that understand, teach.
 
+</br>
+</br>
+
 ### :star2: My goals
 
 -   Contribute more
--   Practice building mobile apps, practice Java
+-   Practice in building mobile apps, practice Java
 -   Learn Rust (isn't the easiest language, fascinates me though)
 -   Rebuild my website: Gatsby, Ghost, Contenful, Netlify
+-   Try ASP.NET, GO
 
 ### :writing_hand: Latest posts
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+---
 
 -   :page_facing_up: Here's [my CVs][cv]
 -   :star: You may also visit [my website][website]
@@ -25,13 +31,9 @@ But programming isn't the only activity I do. I'm also pleased by reading books 
     -   Email: talaveroleg@gmail.com
     -   [LinkedIn][linkedin]
 
-<div style="display: flex">
+</br>
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Vidzhel&show_icons=true&hide_border=true&title_color=#E22A50&icon_color=#E22A50&text_color=#F7F7F7&bg_color=#23232B" />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vidzhel&layout=compact)](https://github.com/Vidzhel/github-readme-stats)
-
-</div>
 
 [website]: https://olegtalaver.pp.ua/
 [linkedin]: https://www.linkedin.com/in/vidzhel/
