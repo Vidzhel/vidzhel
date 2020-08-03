@@ -1,4 +1,4 @@
-b### Hi there 👋
+### Hi there 👋
 
 I'm a student that once tried programming and have never stopped learning since then. Being in awe of exploring new horizons, I keep learning. The path that I've been following so far has led me through countless challenges that in combination with my experience reflected in my projects, which you can take a glance on right below. They'll explain more than I've ever could say.
 
@@ -6,7 +6,6 @@ But programming isn't the only activity I do. I'm also pleased by reading books 
 
 > Those who know, do. Those that understand, teach.
 
-</br>
 </br>
 
 ### :star2: My goals
@@ -20,8 +19,9 @@ But programming isn't the only activity I do. I'm also pleased by reading books 
 ### :writing_hand: Latest posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring Unit and Integration Testing in Redux Saga](https://medium.com/swlh/exploring-unit-and-integration-testing-in-redux-saga-41af34d82033?source=rss-5e045cb0693e------2)
-- [How I built a client-server desktop app](https://medium.com/@vidzhel/how-i-built-a-client-server-desktop-app-50362478ccff?source=rss-5e045cb0693e------2)
+
+-   [Exploring Unit and Integration Testing in Redux Saga](https://medium.com/swlh/exploring-unit-and-integration-testing-in-redux-saga-41af34d82033?source=rss-5e045cb0693e------2)
+-   [How I built a client-server desktop app](https://medium.com/@vidzhel/how-i-built-a-client-server-desktop-app-50362478ccff?source=rss-5e045cb0693e------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
@@ -35,7 +35,7 @@ But programming isn't the only activity I do. I'm also pleased by reading books 
 
 </br>
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Vidzhel&show_icons=true&hide_border=true&title_color=#E22A50&icon_color=#E22A50&text_color=#F7F7F7&bg_color=#23232B" />
+<img align="center" alt="Vidzhel's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Vidzhel&show_icons=true&hide_border=true&title_color=#E22A50&icon_color=#E22A50&text_color=#F7F7F7&bg_color=#23232B&card_width=838"/>
 
 [website]: https://olegtalaver.pp.ua/
 [linkedin]: https://www.linkedin.com/in/vidzhel/
