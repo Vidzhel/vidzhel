@@ -19,6 +19,7 @@ But programming isn't the only activity I do. I'm also pleased by reading books 
 ### :writing_hand: Latest posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Building custom Headless CMS that powers Blogging platform](https://medium.com/@vidzhel/building-custom-headless-cms-that-powers-blogging-platform-d6d33515f109?source=rss-5e045cb0693e------2)
 - [Exploring Unit and Integration Testing in Redux Saga](https://medium.com/swlh/exploring-unit-and-integration-testing-in-redux-saga-41af34d82033?source=rss-5e045cb0693e------2)
 - [How I built a client-server desktop app](https://medium.com/@vidzhel/how-i-built-a-client-server-desktop-app-50362478ccff?source=rss-5e045cb0693e------2)
 <!-- BLOG-POST-LIST:END -->
