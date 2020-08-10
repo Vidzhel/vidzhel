@@ -35,7 +35,9 @@ But programming isn't the only activity I do. I'm also pleased by reading books 
 
 </br>
 
-<img align="center" alt="Vidzhel's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Vidzhel&show_icons=true&hide_border=true&title_color=#E22A50&icon_color=#E22A50&text_color=#F7F7F7&bg_color=#23232B&card_width=838"/>
+<img align="left" alt="Vidzhel's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Vidzhel&show_icons=true&hide_border=true&title_color=#E22A50&icon_color=#E22A50&text_color=#F7F7F7&bg_color=#23232B&card_width=838"/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vidzhel&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://olegtalaver.pp.ua/
 [linkedin]: https://www.linkedin.com/in/vidzhel/
