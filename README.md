@@ -32,7 +32,7 @@ But programming isn't the only activity I do. I'm also pleased by reading books 
 
 ---
 
--   :page_facing_up: Here's [my CVs][cv]
+-   :page_facing_up: Here're [my CVs][cv]
 -   :star: You may also visit [my website][website]
 -   :black_nib: Or read [my blog][medium]
 -   :raised_hands: How to reach me:
