@@ -37,7 +37,7 @@ But programming isn't the only activity I do. I'm also pleased by reading books 
 -   :star: You may also visit [my website][website]
 -   :black_nib: Or read [my blog][medium]
 -   :raised_hands: How to reach me:
-    -   Email: talaveroleg@gmail.com
+    -   Email: olegtalaver@gmail.com
     -   [LinkedIn][linkedin]
 
 </br>
