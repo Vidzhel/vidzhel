@@ -17,10 +17,11 @@ But programming isn't the only activity I do. I'm also pleased by reading books 
 ### :star2: My goals
 
 -   Contribute more
--   Practice in building mobile apps, practice Java
+-   :heavy_check_mark: Try mobile apps development, practice Kotlin
 -   Learn Rust (isn't the easiest language, fascinates me though)
 -   Rebuild my website: Gatsby, Ghost, Contenful, Netlify
--   Try ASP.NET, GO
+-   :heavy_check_mark:Try ASP.NET
+-   Try GO
 
 ### :writing_hand: Latest posts
 
