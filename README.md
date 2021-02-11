@@ -21,7 +21,7 @@ But programming isn't the only activity I do. I'm also pleased by reading books 
 -   Learn Rust (isn't the easiest language, fascinates me though)
 -   Rebuild my website: Gatsby, Ghost, Contenful, Netlify
 -   :heavy_check_mark:Try ASP.NET
--   Try GO
+-   :heavy_check_mark:Try GO
 
 ### :writing_hand: Latest posts
 
