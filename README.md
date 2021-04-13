@@ -10,6 +10,8 @@ But programming isn't the only activity I do. I'm also pleased by reading books 
 
 ### :heart_eyes: Polished projects
 
+-   Signal city (in development) - (ASP.NET Core 5, React, GraphQl, Relay, EF Core, MS SQL) - DDD, CQRS
+-   Marlin (access upon request) - Web based pentathlon competition results accounting system (ASP.NET Core 5, Angular 11, GraphQl, EF Core, MS SQL) - DDD, CQRS
 -   [Bluro](https://github.com/Vidzhel/Bluro) - A headless content management system and a blog that was built with the use of the CMS in sake of learning and interest
 -   [NeuralNetwork](https://github.com/Vidzhel/NeuralNetwork) - Digits recognition and neural network training application
 -   [Reply - Messenger](https://github.com/Vidzhel/Reply-messenger) - Desktop messenger and server for it
